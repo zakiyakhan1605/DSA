@@ -6,28 +6,10 @@ A structured collection of important DSA problems for interview & placement prep
 ---
 
 ## 📚 Topics
-- [Arrays](#arrays)
-- [Strings](#strings)
-- [Linked List](#linked-list)
-- [Stack & Queue](#stack--queue)
-- [Binary Search](#binary-search)
+- [Arrays](Arrays/arrays.md)
+- [Strings](Strings/string.md)
+- [Linked List](Linked list/linkedlist.md)
+- [Stack & Queue](Stack & Queue/stack&Queue.md)
+- [Binary Search](Binary search/binary.md)
 
----
-
-## Strings
-
-| # | Problem | Platform | Difficulty |
-|--|--------|----------|------------|
-| 1 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | Easy |
-
----
-
-## Linked List
-
-| # | Problem | Platform | Difficulty |
-|--|--------|----------|------------|
-| 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | LeetCode | Easy |
-
----
-
-⭐ Star this repo if it helps you!
+ ⭐ Star this repo if it helps you!
