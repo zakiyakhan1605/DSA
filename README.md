@@ -6,7 +6,7 @@ A structured collection of important DSA problems for interview & placement prep
 ---
 
 ## 📚 Topics
-- [Arrays](Arrays/arrays.md)
+- [Arrays](arrays.md)
 - [Strings](Strings/string.md)
 - [Linked List](Linked list/linkedlist.md)
 - [Stack & Queue](Stack & Queue/stack&Queue.md)
