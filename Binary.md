@@ -1,4 +1,5 @@
 Binary Search in 1D
+
 -[Binary Search](https://leetcode.com/problems/binary-search/description/)<br>
 -[Implement Lowe Bound](https://www.geeksforgeeks.org/problems/implement-lower-bound/1)<br>
 -[Implement Upper Bound](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)<br>
