@@ -4,7 +4,7 @@ Easy
 -[Second largest element](https://www.geeksforgeeks.org/dsa/find-second-largest-element-array/)<br>
 -[Check if Array Is Sorted and Roteted](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)<br>
 -[Remove Duplicate from sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)<br>
--[Rotate an Array at one place](https://leetcode.com/problems/rotate-array/description/))<br>
+-[Rotate an Array at one place](https://leetcode.com/problems/rotate-array/description/)<br>
 -[Rotate Array](https://leetcode.com/problems/rotate-array/description/)<br>
 -[move Zeroes to end](https://leetcode.com/problems/move-zeroes/description/)<br>
 -[Linear Search](https://www.geeksforgeeks.org/dsa/linear-search/)<br>
@@ -15,4 +15,19 @@ Easy
 -[Single Number](https://leetcode.com/problems/single-number/description/)<br>
 -[Longest Subarray with Sum K(positive and negative)](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)<br>
 -[Longest subarray with sum of K only positive](https://leetcode.com/problems/subarray-sum-equals-k/description/)<br>
--
+--------------
+Medium
+-[Two Sum](https://leetcode.com/problems/two-sum/description/)<br>
+-[Sort Color](https://leetcode.com/problems/sort-colors/description/)<br>
+-[Majority Element](https://leetcode.com/problems/majority-element/description/)<br>
+-[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)<br>
+-[Print Subarray With Maximum sum](https://www.geeksforgeeks.org/dsa/print-the-maximum-subarray-sum/)<br>
+-[Best time to buy and sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)<br>
+-[Rearrange element By sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)<br>
+-[Next Permutation](https://leetcode.com/problems/next-permutation/description/)<br>
+-[Ladder in an array Problem](https://www.geeksforgeeks.org/dsa/leaders-in-an-array/)<br>
+-[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)<br>
+-[Set Matrix Zero](https://leetcode.com/problems/set-matrix-zeroes/description/)<br>
+-[Rotate Image](https://leetcode.com/problems/rotate-image/description/)<br>
+-[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)<br>
+-[Subarray sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)<br>
