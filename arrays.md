@@ -32,3 +32,19 @@ Medium
 -[Rotate Image](https://leetcode.com/problems/rotate-image/description/)<br>
 -[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)<br>
 -[Subarray sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)<br>
+------------
+Hard
+
+-[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/description/)<br>
+-[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)<br>
+-[3sum](https://leetcode.com/problems/3sum/description/)<br>
+-[4Sum](https://leetcode.com/problems/4sum/description/)<br>
+-[Largest Subarray with Zero sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)<br>
+-[Count Subarray With given X or K](https://www.geeksforgeeks.org/dsa/count-number-subarrays-given-xor/)<br>
+-[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)<br>
+-[Merge Sorted array](https://leetcode.com/problems/merge-sorted-array/description/)<br>
+-[Missing And Repeating ](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)<br>
+-[Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)<br>
+-[Reverse Pair](https://leetcode.com/problems/reverse-pairs/description/)<br>
+-[Maximum Product Subarray](https://leetcode.com/problems/reverse-pairs/description/)<br>
+
