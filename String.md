@@ -1,4 +1,6 @@
 Easy and Basic of String
+
+
 -[Remove outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)<br>
 -[Reverse words in string](https://leetcode.com/problems/reverse-words-in-a-string/description/)<br>
 -[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)<br>
@@ -8,6 +10,8 @@ Easy and Basic of String
 -[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)<br>
 -------
 Medium level
+
+
 -[Sort Character By Frequency](https://leetcode.com/problems/valid-anagram/description/)<br>
 -[Maximum Nesting Depth](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)<br>
 -[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)<br>
