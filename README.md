@@ -9,6 +9,7 @@ A structured collection of important DSA problems for interview & placement prep
 - [Arrays](arrays.md)
 - [Binary Search](Binary.md)
 - [Strings](String.md)
+- [Recursion](Recursion.md)
 - [Linked List](Linked list/linkedlist.md)
 - [Stack & Queue](Stack & Queue/stack&Queue.md)
 - [Binary Search](Binary search/binary.md)
