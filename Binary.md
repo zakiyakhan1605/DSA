@@ -28,5 +28,12 @@ Binary Search in 1D
 -[Maximize max Distance gas station](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1)<br>
 -[Median of Two sorted array](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1)<br>
 -[K th element of two arrays](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)<br>
--
--
+------------
+Binary Search on 2D Array
+
+-[Row with maximum ones](https://leetcode.com/problems/row-with-maximum-ones/description/)<br>
+-[Search two D matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)<br>
+-[Search a two D matrix](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)<br>
+-[Find Peak element in 2d](https://leetcode.com/problems/find-a-peak-element-ii/description/)<br>
+-[Matrix Median](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)<br>
+
