@@ -7,6 +7,8 @@ Hold the topic
 -[Reverse a stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1)<br>
 
 Sbsequence pattern 
+
+
 -[Generate all binary string pattern](https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1)<br>
 -[Generate parenthesis](https://leetcode.com/problems/generate-parentheses/description/)<br>
 -[Subset](https://leetcode.com/problems/subsets/description/)<br>
